@@ -94,7 +94,7 @@ Install all dependencies:
 
 - **Suggestions**
 
-	- For easier use in your CLI, make a bash script that runs (**omap.py**), then move it to **/bin/** so you can use the command (**omap**) anywhere throughout your CLI.
+	- For easier use in your CLI, make a bash script that runs (**OMAP-Radar.py**), then move it to **/bin/** so you can use the command (**omap**) anywhere throughout your CLI.
 
 ---
 ### Making a script for easier use (OPTIONAL)
