@@ -35,7 +35,7 @@ For a robust (offline) Meshtastic messenger, refer to https://github.com/richsto
 
 - **Mesh Topology**
 
-![[Pasted image 20251118150008.png]]
+<img width="966" height="841" alt="image" src="https://github.com/user-attachments/assets/e35a5af2-46f0-413f-b327-8463f14e2489" />
 
 
 - **Node Callsigns**
