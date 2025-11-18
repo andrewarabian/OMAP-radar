@@ -90,7 +90,7 @@ Install all dependencies:
 
 - **Run script with python**
 
-		- python3 omap.py
+		python3 OMAP-Radar.py
 
 - **Suggestions**
 
@@ -108,7 +108,7 @@ Install all dependencies:
 
 			#!/bin/bash
 			cd /home/user/yourgitdirectory/omap-radar
-			omap.py
+			OMAP-Radar.py
 
 - **Replace /home/user/yourgitdirectory/omap-radar**
 
