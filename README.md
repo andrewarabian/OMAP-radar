@@ -31,20 +31,19 @@ For a robust (offline) Meshtastic messenger, refer to https://github.com/richsto
 
 - **Visualized Node Data**
 
-![[Pasted image 20251118150145.png]]
+<img width="493" height="85" alt="image" src="https://github.com/user-attachments/assets/3a1d4cf9-4377-452c-9301-fc5e86cb012e" />
 
 - **Mesh Topology**
 
 <img width="966" height="841" alt="image" src="https://github.com/user-attachments/assets/e35a5af2-46f0-413f-b327-8463f14e2489" />
 
-
 - **Node Callsigns**
 
-![[Pasted image 20251118150424.png]]
+<img width="601" height="456" alt="image" src="https://github.com/user-attachments/assets/8659b7ce-03a3-42b7-a41c-ecbf75c50205" />
 
 - **Coordinate Tracker**
 
-![[Pasted image 20251118150742.png]]
+<img width="601" height="456" alt="image" src="https://github.com/user-attachments/assets/5bc26d6b-d7b9-41b8-9297-14f494c8417f" />
 
 ---
 ### Requirements
