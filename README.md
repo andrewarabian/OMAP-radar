@@ -7,7 +7,7 @@
 
 **OMAP** reads live serial data from a Meshtastic node (over `/dev/ttyACM*`) and turns it into a spatial network map showing GPS positions, mesh links, and signal reach in real time.
 
-It’s meant for analysis, not chat. If you want to _see_ what your LoRa mesh is doing when the network’s quiet or disconnected from the internet, this is the tool. 
+If you want to _see_ what your LoRa mesh is doing with positioning data strictly at the RF level, this is the tool. 
 
 ---
 ### Functions
