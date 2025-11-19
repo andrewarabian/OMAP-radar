@@ -21,7 +21,7 @@ If you want to _see_ what your LoRa mesh is doing with positioning data strictly
     
 - Fully interactive **Pygame interface** for exploration and analysis.
 	
-- **NOTE** : Nodes with the setting (CLIENT_HIDDEN), or hidden nodes do not appear on the map.
+- **NOTE** :  Nodes with the device role (CLIENT_HIDDEN) may still appear on the map. OMAP detects nodes based on their parameters for (REBROADCASTING) being (ALL), or (LOCAL ONLY).
 
 ---
 ### Project Images
