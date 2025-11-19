@@ -9,8 +9,6 @@
 
 It’s meant for analysis, not chat. If you want to _see_ what your LoRa mesh is doing when the network’s quiet or disconnected from the internet, this is the tool. 
 
-For a robust (offline) Meshtastic messenger, refer to https://github.com/richstokes/meshtastic_terminal
-
 ---
 ### Functions
 ---
