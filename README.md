@@ -29,7 +29,7 @@ If you want to _see_ what your LoRa mesh is doing with positioning data strictly
 
 - **Visualized Node Data**
 
-<img width="493" height="85" alt="image" src="https://github.com/user-attachments/assets/3a1d4cf9-4377-452c-9301-fc5e86cb012e" />
+<img width="665" height="80" alt="image" src="https://github.com/user-attachments/assets/17b8bb5b-cbf1-419b-8f7c-595f8c8d9279" />
 
 - **Mesh Topology**
 
